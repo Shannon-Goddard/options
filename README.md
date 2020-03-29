@@ -1,2 +1,1 @@
-# options
-Tracking abnormal stock option purchases
+https://shannon-goddard.github.io/options/

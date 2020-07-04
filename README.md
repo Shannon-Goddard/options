@@ -1,4 +1,4 @@
-![header_pic](/header.png)
+![header](/header.png)
  
 #### Table of Contents  
 
